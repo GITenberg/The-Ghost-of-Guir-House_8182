@@ -1,0 +1,24 @@
+_repo: The-Ghost-of-Guir-House_8182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beale, Charles Willing
+    birthdate: 1845
+    deathdate: 1932
+    gutenberg_agent_id: '2684'
+    url: http://www.gutenberg.org/2009/agents/2684
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcc 'PS'
+- GITenberg
+title: The Ghost of Guir House
+url: http://www.gutenberg.org/ebooks/8182
